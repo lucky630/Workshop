@@ -1,7 +1,7 @@
 # Workshop
 Notebook Presentations for Workshop
 
-- Bayesian and Markov Network Using Pgmpy
-- Graph Machine Learning From Graph Mining to GNN
 - Tensorflow Demo
+- Graph Machine Learning From Graph Mining to GNN
+- Bayesian and Markov Network Using Pgmpy
 - Preprocessing Techniques
